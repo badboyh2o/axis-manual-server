@@ -14,7 +14,7 @@
 
 3、新建服務類及方法
 
-4、	WEB-INFO 目錄下 新建並配置 server-config.wsdd
+4、	WEB-INF 目錄下 新建並配置 server-config.wsdd
 
 5、部署在 Tomcat
 
